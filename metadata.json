@@ -1,0 +1,6 @@
+{
+  "name": "FraudLens — Explainable Fraud Ring Detection System",
+  "description": "Explainable fraud ring detection system powered by symbolic AI, forward chaining inference, and knowledge graph pattern matching for financial investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
